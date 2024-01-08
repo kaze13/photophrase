@@ -1,60 +1,109 @@
 ---
 layout: page
-title: Privacy Policy
+title: Privacy Policy for PhotoPhrase
 include_in_header: false
 ---
 
 **Last updated**  
-August 1 2019
+[Insert Date Here]
 
-# Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
+# Privacy Policy for PhotoPhrase
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+Thank you for choosing to be part of our community at PhotoPhrase. We take your privacy seriously and, in the spirit of transparency, we want to inform you that our mobile application, PhotoPhrase, is designed to function entirely offline and does not collect, store, or process any personal information at any time.
 
-<br>
+If you have any questions or concerns about this privacy policy, please contact us at [Insert Contact Information Here].
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
-
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
-
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+**Please read this privacy policy carefully to understand our commitment to your privacy.**
 
 <br>
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+## 1.0 No Information Collection
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+In Short: We do not collect your information.
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+PhotoPhrase is designed to operate completely offline. No personal information is collected, processed, or stored through the App. All photos and associated metadata remain solely on your device.
 
 <br>
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+## 2.0 No Use of Your Information
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+In Short: Since we do not collect information, there is no use of personal information.
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+PhotoPhrase's offline functionality means there is no personal information to use.
 
 <br>
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+## 3.0 No Sharing of Your Information
+
+In Short: We do not share any personal information because we do not collect it.
+
+PhotoPhrase does not function online and does not have the capability to collect or share personal data.
 
 <br>
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+## 4.0 Your Data Rights
+
+In Short: You maintain full control over your personal information at all times.
+
+Since the App does not collect data, your rights pertain to managing and deleting your photos and associated data within the App.
+
+<br>
+
+## 5.0 Information Safety
+
+In Short: Your information remains safe because it is never collected.
+
+PhotoPhrase's offline operation ensures your data is not exposed to online threats.
+
+<br>
+
+## 6.0 No Collection of Minors' Information
+
+In Short: We do not collect data from anyone, including minors.
+
+The App is intended for users who are at least 18 years old.
+
+<br>
+
+## 7.0 Your Privacy Rights
+
+In Short: Your privacy rights are inherently respected by our no data collection policy.
+
+You have the right to use the App without any personal data being collected.
+
+<br>
+
+## 8.0 Do-Not-Track Features
+
+PhotoPhrase does not track users; therefore, Do-Not-Track browser signals are not applicable.
+
+<br>
+
+## 9.0 California Privacy Rights
+
+In Short: California residents have specific privacy rights, which are not applicable as we do not collect personal information.
+
+<br>
+
+## 10.0 Policy Updates
+
+We will update this policy as necessary, although changes are unlikely given our no data collection practice.
+
+<br>
+
+## 11.0 Contact Us
+
+For questions about this policy, email us at [Insert Email Address Here] or by post to:
+
+[Insert Your Company Name Here]  
+[Insert Your Mailing Address Here]
+
+<br>
+
+## 12.0 Data Review, Update, or Deletion
+
+As we do not collect any personal information, there is no data to review, update, or delete.
+
+---
+
+*This privacy policy is designed to be transparent about our no data collection practices. We are committed to ensuring a safe and private experience for users of PhotoPhrase.*
