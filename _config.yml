@@ -11,9 +11,9 @@ playstore_link                            :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : PhotoPhrase - Effortlessly Find Your Cherished Moments                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : PhotoPhrase - Find Photo by Text                                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : PhotoPhrase is an innovative app that lets you search your photos using text, making it easy to rediscover your memories and moments.
+app_description                           : Effortlessly Find Your Cherished Moments
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
