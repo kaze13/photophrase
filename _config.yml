@@ -46,7 +46,7 @@ features                                  :
 
   - title                                 : Efficient Album Management
     description                           : Locate, tag, bookmark, and organize your images effortlessly, while also discarding unwanted ones.
-    fontawesome_icon_name                 : album-collection
+    fontawesome_icon_name                 : cubes
 
   - title                                 : Privacy-Centric
     description                           : With PhotoPhrase, your photos stay on your device, ensuring privacy and lightning-fast search speeds.
