@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacy Policy for PhotoPhrase
+title: Privacy Policy
 include_in_header: false
 ---
 
