@@ -22,6 +22,7 @@
             <script>
                 $(function() {
                     $(".videoContainer").removeClass("hidden");
+                    $(".screenvideo").attr({'autoplay': true, 'muted': true}); // Set autoplay and muted attributes
                     $(".screenvideo").append('<source src="{{ site.github.baseurl }}{{ file.path }}" type="video/mp4">');
                     console.log("{{ file.path }}");
                 });
@@ -30,18 +31,20 @@
             <script>
                 $(function() {
                     $(".videoContainer").removeClass("hidden");
+                    $(".screenvideo").attr({'autoplay': true, 'muted': true}); // Set autoplay and muted attributes
                     $(".screenvideo").append('<source src="{{ site.github.baseurl }}{{ file.path }}" type="video/ogg">');
                     console.log("{{ file.path }}");
                 });
             </script>
         {% elsif file.extname == ".webm" %}
-        <script>
-            $(function() {
-                $(".videoContainer").removeClass("hidden");
-                $(".screenvideo").append('<source src="{{ site.github.baseurl }}{{ file.path }}" type="video/webm">');
-                console.log("{{ file.path }}");
-            });
-        </script>
+            <script>
+                $(function() {
+                    $(".videoContainer").removeClass("hidden");
+                    $(".screenvideo").attr({'autoplay': true, 'muted': true}); // Set autoplay and muted attributes
+                    $(".screenvideo").append('<source src="{{ site.github.baseurl }}{{ file.path }}" type="video/webm">');
+                    console.log("{{ file.path }}");
+                });
+            </script>
         {% endif %}
     {% endif %}
 {% endfor %}
