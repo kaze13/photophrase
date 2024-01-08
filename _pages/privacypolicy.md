@@ -93,10 +93,7 @@ We will update this policy as necessary, although changes are unlikely given our
 
 ## 11.0 Contact Us
 
-For questions about this policy, email us at [Insert Email Address Here] or by post to:
-
-[Insert Your Company Name Here]  
-[Insert Your Mailing Address Here]
+For questions about this policy, email us at [bigrice20@gmail.com](mailto:bigrice20@gmail.com).
 
 <br>
 
