@@ -22,8 +22,11 @@
             <script>
                 $(function() {
                     $(".videoContainer").removeClass("hidden");
-                    $(".screenvideo").attr({'autoplay': true, 'muted': true}); // Set autoplay and muted attributes
-                    $(".screenvideo").append('<source src="{{ site.github.baseurl }}{{ file.path }}" type="video/mp4">');
+                    var videoElement = $(".screenvideo").attr({'autoplay': true, 'muted': true, 'loop': true});
+                    videoElement.append('<source src="{{ site.github.baseurl }}{{ file.path }}" type="video/mp4">');
+                    videoElement.get(0).play().catch(function(error) {
+                        console.error("Video autoplay failed:", error);
+                    });
                     console.log("{{ file.path }}");
                 });
             </script>
@@ -31,8 +34,11 @@
             <script>
                 $(function() {
                     $(".videoContainer").removeClass("hidden");
-                    $(".screenvideo").attr({'autoplay': true, 'muted': true}); // Set autoplay and muted attributes
-                    $(".screenvideo").append('<source src="{{ site.github.baseurl }}{{ file.path }}" type="video/ogg">');
+                    var videoElement = $(".screenvideo").attr({'autoplay': true, 'muted': true, 'loop': true});
+                    videoElement.append('<source src="{{ site.github.baseurl }}{{ file.path }}" type="video/ogg">');
+                    videoElement.get(0).play().catch(function(error) {
+                        console.error("Video autoplay failed:", error);
+                    });
                     console.log("{{ file.path }}");
                 });
             </script>
@@ -40,8 +46,11 @@
             <script>
                 $(function() {
                     $(".videoContainer").removeClass("hidden");
-                    $(".screenvideo").attr({'autoplay': true, 'muted': true}); // Set autoplay and muted attributes
-                    $(".screenvideo").append('<source src="{{ site.github.baseurl }}{{ file.path }}" type="video/webm">');
+                    var videoElement = $(".screenvideo").attr({'autoplay': true, 'muted': true, 'loop': true});
+                    videoElement.append('<source src="{{ site.github.baseurl }}{{ file.path }}" type="video/webm">');
+                    videoElement.get(0).play().catch(function(error) {
+                        console.error("Video autoplay failed:", error);
+                    });
                     console.log("{{ file.path }}");
                 });
             </script>
